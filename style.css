@@ -1,0 +1,18 @@
+html,
+body{
+    width: 100%;
+    body: 100%;
+}
+
+body{
+    font-family: "Helveltica", "Arial", "sans-serif"; 
+}
+
+.container{
+    text-align: center;
+}
+
+
+.spaced{
+    letter-spacing: 1em;
+}
