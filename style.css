@@ -1,16 +1,30 @@
 html,
 body{
     width: 100%;
-    body: 100%;
 }
+.container{
+    text-align: center;
+}
+
+
+.jumbotron{
+    margin-bottom: 0;
+  background: url("media/jumbotron.jpg") no-repeat center center;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+
+}
+
+
+
+
 
 body{
     font-family: "Helveltica", "Arial", "sans-serif"; 
 }
 
-.container{
-    text-align: center;
-}
 
 
 .spaced{
